@@ -14,3 +14,10 @@ I'm a web developer with a passion in back-end development. I enjoy coding in Ja
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin)
 ![dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart)
 
+## 📝 My Stats...
+
+I mostly use JavaScript for my projects. I have an advanced understanding in TailwindCSS and intermediate skill in ExpressJS. I also sometimes code in Python to do Machine Learning stuff.
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yawpie&count_private=true&theme=dark&showicons=true)
+
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yawpie&langs_count=5&theme=dark)

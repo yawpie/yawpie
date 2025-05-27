@@ -6,13 +6,9 @@
 
 I'm a web developer with a passion in back-end development. I enjoy coding in JavaScript and I have experience in using Tailwind CSS but I will learn as I explore the world of programming.
 
-![html](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
-![css](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?logo=cplusplus&logoColor=ffffff&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin)
-![dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart)
 
 ## 📝 My Stats...
 

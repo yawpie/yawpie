@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/iammuhammadrafi-f0f0f0?logo=instagram&style=for-the-badge)](https://instagram.com/iammuhammadrafi)
 [![Linkedin](https://img.shields.io/badge/Muhammad%20Rafi-417dd1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yawpie)
 
-I'm a web developer with a passion in back-end development. I enjoy coding in JavaScript and I have experience in using Tailwind CSS but I will learn as I explore the world of programming.
+I'm an Android Developer with a passion in back-end web development. I enjoy coding in Kotlin and I love to learn new stuff.
 
 ![Javascript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
@@ -12,7 +12,7 @@ I'm a web developer with a passion in back-end development. I enjoy coding in Ja
 
 ## 📝 My Stats...
 
-I mostly use JavaScript for my projects. I have an advanced understanding in TailwindCSS and intermediate skill in ExpressJS. I also sometimes code in Python to do Machine Learning stuff.
+I mostly use JavaScript for web development related projects. I have an intermediate understanding in TailwindCSS and ExpressJS. I also sometimes code in Python to do AI stuff.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yawpie&count_private=true&theme=dark&showicons=true)
 

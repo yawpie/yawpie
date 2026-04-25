@@ -7,9 +7,8 @@
 ---
 
 ## 🚀 About Me  
-💻 Android Developer with strong interest in **Back-End Web Development**  
-📱 Mainly code in **Kotlin**, but also enjoy working with **TypeScript**   
-🌱 Always curious to learn new things — from mobile development, web, AI, to blockchain  
+💻 Android Developer with strong interest in **Back-End Web Development**   
+🌱 Always curious to learn new things — from mobile development, web, AI, devOps, to blockchain  
 
 ---
 
